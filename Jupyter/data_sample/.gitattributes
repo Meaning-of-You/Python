@@ -1,0 +1,2 @@
+population_kosis_1997_2019.csv filter=lfs diff=lfs merge=lfs -text
+seoul_20200630.csv filter=lfs diff=lfs merge=lfs -text
